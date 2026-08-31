@@ -1,169 +1,317 @@
 <div align="center">
 
-<!-- ============ TOP BANNER GIF ============ -->
-<img src="./assets/ARYAN_EXE.gif" width="100%" alt="ARYAN.EXE banner"/>
+<!-- ===================== HERO ===================== -->
+<img src="./assets/ARYAN.EXE.gif" width="100%" alt="ARYAN.EXE animated hacker banner"/>
 
-<!-- ============ WAVE DIVIDER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=90&section=header" width="100%"/>
+<br/>
 
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=root%40AryanExE-x%3A~%24+whoami;Aryan+Prasad+%7C+Builder+%7C+Debugger+of+Life;Currently+compiling%3A+Fire-Response+Drone+%F0%9F%9A%81;Status%3A+404+Motivation+Not+Found+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=760&lines=INITIALIZING+ARYAN.EXE...;JAVA+%7C+DSA+%7C+PYTHON+%7C+AUTOMATION;BUILDING+SYSTEMS+THAT+SHOULDN'T+BE+EASY;DEBUGGING+TODAY.+SHIPPING+TOMORROW." alt="Typing animation"/>
+
+<br/>
+
+<a href="https://github.com/AryanExE-x">
+  <img src="https://img.shields.io/badge/GITHUB-AryanExE--x-0b0f0c?style=for-the-badge&logo=github&logoColor=00ff66" />
 </a>
+<a href="mailto:contact.aryan.p@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONNECT-0b0f0c?style=for-the-badge&logo=gmail&logoColor=00ff66" />
+</a>
+<a href="https://www.linkedin.com/in/aryanprasad8888">
+  <img src="https://img.shields.io/badge/LINKEDIN-ARYAN_PRASAD-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=00ff66" />
+</a>
+
+<br/><br/>
+
+<code>⚠️ 404: MOTIVATION NOT FOUND</code>
+<br/>
+<sub><code>Currently debugging life.java...</code></sub>
 
 </div>
 
-<br/>
+---
 
-<!-- ============ TERMINAL-STYLE INTRO ============ -->
-```ansi
-┌──────────────────────────────────────────────────────────────────┐
-│  ~/AryanExE-x  git:(main)  ✗                                      │
-│                                                                    │
-│  $ cat about_me.log                                               │
-│  > Name        : Aryan Prasad                                     │
-│  > Handle      : AryanExE-x                                       │
-│  > Pronouns    : he/him                                           │
-│  > Status      : 404 Motivation Not Found — currently debugging life │
-│  > Uptime      : compiling since forever                          │
-│                                                                    │
-└──────────────────────────────────────────────────────────────────┘
+## `~/AryanExE-x` → `cat about_me.log`
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  ~/AryanExE-x  git:(main)  ✗                                         │
+│                                                                      │
+│  $ whoami                                                            │
+│  > Aryan Prasad                                                      │
+│                                                                      │
+│  $ cat status.log                                                    │
+│  > Role       : Aspiring Developer                                   │
+│  > Primary    : Java + DSA                                          │
+│  > Exploring  : Python + AI + Automation                             │
+│  > Building   : Robotics / Drone Systems                             │
+│  > Mode       : BUILD → BREAK → DEBUG → REPEAT                       │
+│                                                                      │
+│  $ uptime                                                            │
+│  > compiling since forever...                                       │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+<div align="center">
 
-<table align="center">
+### `// I don't just learn concepts. I try to make them survive production.`
+
+</div>
+
+---
+
+## `./mission_control`
+
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
 ### 🛰️ `currently_working_on[]`
-```yaml
-- Fire-response drone
-- Data Structures & Algorithms
-- Automation projects
-```
 
-### 🤝 `looking_to_collab[]`
-```yaml
-- Robotics & Drones
-- Artificial Intelligence
-- Open-source projects
-```
+- 🚁 Fire-response drone systems
+- 🧠 Data Structures & Algorithms
+- ⚙️ Automation projects
+- 🧪 Turning ideas into working prototypes
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
+
+### 🌱 `currently_learning[]`
+
+- ☕ Java
+- 🧩 DSA
+- 🐍 Python
+- 🤖 AI & Automation
+- 🏗️ Backend architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 `looking_to_collab[]`
+
+- 🤖 Robotics & Drones
+- 🧠 Artificial Intelligence
+- 🔓 Open-source projects
+- ⚡ Weird-but-useful ideas
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧩 `need_help_with[]`
-```yaml
+
 - Drone systems
 - Computer vision
 - Backend architecture
-```
-
-### 🌱 `currently_learning[]`
-```yaml
-- Java, DSA, Python
-- AI & Automation
-```
+- Building things at unreasonable hours
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-### 💬 Ask me about
-**Fire-drone project · Java · DSA · things I'm secretly building at 2 AM**
-
-### ⚡ Fun fact
-*"I learn fastest by building things that shouldn't be easy."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+## `./stack --scan`
 
 <div align="center">
 
-## 🌐 Socials
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=000000"/></a>
-<a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
-<a href="https://quora.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=00FF41&labelColor=000000"/></a>
-<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=000000"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
-
-<div align="center">
-
-## 🖥️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode,arduino,raspberrypi,opencv,tensorflow&theme=dark"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_rank=false&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanExE-x&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanExE-x&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" width="49%"/>
-
-</div>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AryanExE-x&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚠️ Renders after the Snake GitHub Action below is set up in this repo.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
-
-<div align="center">
-
-## 📌 Featured Repositories
-
-<a href="https://github.com/AryanExE-x/Java-DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Java-DSA&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
-<a href="https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Leetcode-DSA-Practice-Questions&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
-<a href="https://github.com/AryanExE-x/itr-wala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=itr-wala&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
-<a href="https://github.com/AryanExE-x/Apna-College-AlphaBatch-DSA-JAVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Apna-College-AlphaBatch-DSA-JAVA&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
-
-<div align="center">
-
-## 📈 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=AryanExE-x&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=000000"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode,arduino,raspberrypi,tensorflow&theme=dark" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%3E+connection+closed...;%3E+see+you+in+the+next+commit_" alt="Footer Typing"/>
+<img src="https://img.shields.io/badge/CORE-JAVA-0b0f0c?style=for-the-badge&logo=openjdk&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/DSA-IN_PROGRESS-0b0f0c?style=for-the-badge&logo=leetcode&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/AI-EXPLORING-0b0f0c?style=for-the-badge&logo=tensorflow&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/AUTOMATION-BUILDING-0b0f0c?style=for-the-badge&logo=githubactions&logoColor=00ff66"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+## `./projects --featured`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚒 Fire-Response Drone
+**Mission:** explore autonomous systems for emergency response.
+
+`robotics` `automation` `computer-vision`
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java + DSA Lab
+A growing collection of implementations, patterns and interview-style problems.
+
+`java` `dsa` `algorithms`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 LeetCode Practice
+Solutions and patterns I'm using to sharpen problem-solving.
+
+`java` `leetcode` `problem-solving`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Experiments
+Small systems that remove repetitive work and occasionally create new bugs.
+
+`python` `automation` `experiments`
+
+</td>
+</tr>
+</table>
+
+> **Want to see the real work?** Check the repositories below — the README is the interface, the commits are the evidence.
+
+---
+
+## `./github --telemetry`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&bg_color=0b0f0c&title_color=00ff66&icon_color=00ff66&text_color=c8ffd8&ring_color=00ff66&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&bg_color=0b0f0c&title_color=00ff66&text_color=c8ffd8&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AryanExE-x&theme=dark&hide_border=true&background=0b0f0c&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=c8ffd8&dates=7aa889" />
+
+</div>
+
+---
+
+## `./achievements --load`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AryanExE-x&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+## `./contributions --animate`
+
+<div align="center">
+
+<img src="./assets/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>🐍 What is this?</b></summary>
+
+<br/>
+
+This animation is generated automatically from the GitHub contribution graph by the workflow included with this profile.
+
+Every commit feeds the snake.
+
+Every empty square is a personal attack.
+
+</details>
+
+---
+
+## `./terminal --interactive`
+
+<details>
+<summary><b>🟢 Open terminal session</b></summary>
+
+```console
+$ ./aryan.exe
+
+[BOOT] loading developer profile...
+[OK]   Java runtime detected
+[OK]   DSA module detected
+[OK]   caffeine dependency detected
+[WARN] motivation dependency missing
+[OK]   debugging subsystem online
+
+> ./build --project="something-that-shouldn't-be-easy"
+
+Compiling ███████████████████░ 94%
+
+ERROR:
+    Unknown bug detected.
+
+ACTION:
+    Debug it.
+
+RESULT:
+    It works now. Don't ask why.
+
+$ echo $NEXT_STEP
+
+BUILD SOMETHING HARDER.
+```
+
+</details>
+
+<details>
+<summary><b>☕ Java developer mode</b></summary>
+
+```java
+public class Aryan {
+    public static void main(String[] args) {
+
+        while (alive()) {
+            learn();
+            build();
+            breakSomething();
+            debug();
+            repeat();
+        }
+    }
+}
+```
+
+</details>
+
+<details>
+<summary><b>🧠 Ask me about</b></summary>
+
+- Java
+- DSA
+- Fire-response drone systems
+- Automation
+- AI experiments
+- Things I'm secretly building at 2 AM
+
+</details>
+
+---
+
+## `./connect --open_channels`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aryanprasad8888">
+<img src="https://img.shields.io/badge/LINKEDIN-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=00ff66"/>
+</a>
+<a href="mailto:contact.aryan.p@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0b0f0c?style=for-the-badge&logo=gmail&logoColor=00ff66"/>
+</a>
+<a href="https://github.com/AryanExE-x">
+<img src="https://img.shields.io/badge/GITHUB-0b0f0c?style=for-the-badge&logo=github&logoColor=00ff66"/>
+</a>
+
+<br/><br/>
+
+### `> connection established.`
+
+<sub>Building quietly. Committing consistently. Learning in public.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0a,50:003d1c,100:00ff66&height=120&section=footer&animation=twinkling"/>
 
 </div>
