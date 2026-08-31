@@ -189,15 +189,27 @@ Sometimes they create a completely different bug.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&bg_color=07120b&title_color=00ff66&icon_color=00ff66&text_color=b8ffd0&ring_color=00ff66&include_all_commits=true" height="175">
+<img src="./assets/telemetry.svg" width="100%" alt="AryanExE-x GitHub telemetry">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&bg_color=07120b&title_color=00ff66&text_color=b8ffd0&langs_count=7" height="175">
+<br>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AryanExE-x&theme=dark&hide_border=true&background=07120b&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=b8ffd0&dates=6d8c78" height="175">
+<sub><code>TELEMETRY</code> is a snapshot of the machine behind the commits — not a vanity scoreboard.</sub>
 
 </div>
+
+<details>
+<summary><b>▸ read the signal</b></summary>
+
+<br>
+
+```text
+83  contributions    →  consistency is starting to compound
+11  day streak       →  showing up > waiting for motivation
+07  repositories     →  experiments, practice, and actual builds
+02  stars            →  small number, real signal
+```
+
+</details>
 
 ---
 
@@ -205,9 +217,9 @@ Sometimes they create a completely different bug.
 
 <div align="center">
 
-<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
+<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution matrix">
 
-<sub>the graph is basically a visual representation of how often I refused to leave a bug alone.</sub>
+<sub>live contribution animation — the matrix updates automatically after the GitHub Action runs.</sub>
 
 </div>
 
@@ -267,24 +279,28 @@ while (alive) {
 
 <div align="center">
 
+<img src="./assets/open-ports.svg" width="100%" alt="Open communication channels">
+
+<br>
+
 <a href="https://www.linkedin.com/in/aryanprasad8888">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff66?style=for-the-badge&logo=linkedin&logoColor=050805&labelColor=050805">
+<img src="https://img.shields.io/badge/LINKEDIN-00ff66?style=for-the-badge&logo=linkedin&logoColor=050805&labelColor=050805" alt="LinkedIn">
 </a>
+&nbsp;
 <a href="mailto:contact.aryan.p@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=050805&labelColor=050805">
+<img src="https://img.shields.io/badge/EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=050805&labelColor=050805" alt="Email">
 </a>
+&nbsp;
 <a href="https://github.com/AryanExE-x?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-00ff66?style=for-the-badge&logo=github&logoColor=050805&labelColor=050805">
+<img src="https://img.shields.io/badge/PROJECTS-00ff66?style=for-the-badge&logo=github&logoColor=050805&labelColor=050805" alt="Projects">
 </a>
 
 <br><br>
 
-### `> connection established_`
-
-<sub>I'm always interested in people who build things instead of only talking about building them.</sub>
+<code>connection.established()</code>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07120b,45:003d1c,100:00ff66&height=120&section=footer&animation=twinkling">
+<sub>Got an idea worth building? Send the signal.</sub>
 
 </div>
