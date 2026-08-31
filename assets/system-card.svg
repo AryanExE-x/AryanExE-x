@@ -1,0 +1,25 @@
+<svg width="1100" height="310" viewBox="0 0 1100 310" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d0b"/><stop offset="1" stop-color="#101812"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#00ff66" stop-opacity=".05"/><stop offset=".5" stop-color="#00ff66" stop-opacity=".24"/><stop offset="1" stop-color="#00ff66" stop-opacity=".05"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="8" y="8" width="1084" height="294" rx="18" fill="url(#bg)" stroke="#00ff66" stroke-opacity=".35"/>
+<circle cx="35" cy="35" r="6" fill="#00ff66"/><circle cx="57" cy="35" r="6" fill="#0b5"/><circle cx="79" cy="35" r="6" fill="#064"/>
+<text x="105" y="41" fill="#79ffac" font-family="JetBrains Mono,monospace" font-size="16">ARYAN.EXE // PERSONAL OPERATING SYSTEM</text>
+<path d="M28 65H1072" stroke="#00ff66" stroke-opacity=".15"/>
+<text x="35" y="98" fill="#b8ffd0" font-family="JetBrains Mono,monospace" font-size="17">$ ./status --live</text>
+<text x="35" y="132" fill="#00ff66" font-family="JetBrains Mono,monospace" font-size="20" filter="url(#glow)">BUILDING SYSTEMS. LEARNING IN PUBLIC.</text>
+<text x="35" y="163" fill="#708f7a" font-family="JetBrains Mono,monospace" font-size="15">Java / DSA  •  Python / Automation  •  AI  •  Robotics</text>
+<rect x="35" y="190" width="1010" height="1" fill="url(#line)"/>
+<text x="35" y="224" fill="#79ffac" font-family="JetBrains Mono,monospace" font-size="15">[01] curiosity</text>
+<text x="285" y="224" fill="#79ffac" font-family="JetBrains Mono,monospace" font-size="15">[02] consistency</text>
+<text x="570" y="224" fill="#79ffac" font-family="JetBrains Mono,monospace" font-size="15">[03] prototypes</text>
+<text x="835" y="224" fill="#79ffac" font-family="JetBrains Mono,monospace" font-size="15">[04] late nights</text>
+<text x="35" y="263" fill="#587565" font-family="JetBrains Mono,monospace" font-size="14">STATUS:</text>
+<text x="105" y="263" fill="#00ff66" font-family="JetBrains Mono,monospace" font-size="14">ONLINE</text>
+<circle cx="205" cy="258" r="5" fill="#00ff66" filter="url(#glow)">
+ <animate attributeName="opacity" values="1;.25;1" dur="1.4s" repeatCount="indefinite"/>
+</circle>
+<text x="230" y="263" fill="#587565" font-family="JetBrains Mono,monospace" font-size="14">|  current task: making the next build less boring</text>
+</svg>
