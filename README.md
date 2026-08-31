@@ -1,108 +1,104 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
-<img src="./assets/ARYAN.EXE.gif" width="100%" alt="ARYAN.EXE animated hacker banner"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=760&lines=INITIALIZING+ARYAN.EXE...;JAVA+%7C+DSA+%7C+PYTHON+%7C+AUTOMATION;BUILDING+SYSTEMS+THAT+SHOULDN'T+BE+EASY;DEBUGGING+TODAY.+SHIPPING+TOMORROW." alt="Typing animation"/>
-
-<br/>
-
 <a href="https://github.com/AryanExE-x">
-  <img src="https://img.shields.io/badge/GITHUB-AryanExE--x-0b0f0c?style=for-the-badge&logo=github&logoColor=00ff66" />
+<img src="./assets/ARYAN.EXE.gif" width="100%" alt="ARYAN.EXE animated banner">
+</a>
+
+<br>
+
+<img src="./assets/neon-heading.svg" width="85%" alt="System online">
+
+<br>
+
+<a href="https://github.com/AryanExE-x?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-07120b?style=for-the-badge&logo=github&logoColor=00ff66&labelColor=050805" />
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/DSA-IN_PROGRESS-07120b?style=for-the-badge&logo=leetcode&logoColor=00ff66&labelColor=050805" />
 </a>
 <a href="mailto:contact.aryan.p@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONNECT-0b0f0c?style=for-the-badge&logo=gmail&logoColor=00ff66" />
-</a>
-<a href="https://www.linkedin.com/in/aryanprasad8888">
-  <img src="https://img.shields.io/badge/LINKEDIN-ARYAN_PRASAD-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=00ff66" />
+<img src="https://img.shields.io/badge/CONTACT-OPEN_CHANNEL-07120b?style=for-the-badge&logo=gmail&logoColor=00ff66&labelColor=050805" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<code>⚠️ 404: MOTIVATION NOT FOUND</code>
-<br/>
-<sub><code>Currently debugging life.java...</code></sub>
+<code>⚠ 404: motivation not found</code> &nbsp; <code>status: still shipping</code>
 
 </div>
 
----
+<br>
 
-## `~/AryanExE-x` → `cat about_me.log`
+<img src="./assets/system-card.svg" width="100%" alt="Animated Aryan system card">
+
+<img src="./assets/neon-divider.svg" width="100%" alt="Animated neon divider">
+
+## `01` // THE PERSON BEHIND THE TERMINAL
+
+> **I like taking things apart just enough to understand them — then rebuilding them better.**
+>
+> Right now that means living somewhere between **Java, DSA, automation, AI and hardware**.  
+> I’m less interested in collecting technologies and more interested in making them **do something real**.
+
+<details>
+<summary><b>▸ decrypt personality.exe</b></summary>
+
+<br>
 
 ```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  ~/AryanExE-x  git:(main)  ✗                                         │
-│                                                                      │
-│  $ whoami                                                            │
-│  > Aryan Prasad                                                      │
-│                                                                      │
-│  $ cat status.log                                                    │
-│  > Role       : Aspiring Developer                                   │
-│  > Primary    : Java + DSA                                          │
-│  > Exploring  : Python + AI + Automation                             │
-│  > Building   : Robotics / Drone Systems                             │
-│  > Mode       : BUILD → BREAK → DEBUG → REPEAT                       │
-│                                                                      │
-│  $ uptime                                                            │
-│  > compiling since forever...                                       │
-└──────────────────────────────────────────────────────────────────────┘
+CURIOUS        ████████████████████  100%
+STUBBORN       ██████████████████░░   90%
+COFFEE         ███████████████████░   95%
+MOTIVATION     ███████████░░░░░░░░░   55%
+BUGS           █████████████████████  110%
+
+preferred workflow:
+idea → prototype → break it → stare at it → fix it → ship it
 ```
 
-<div align="center">
-
-### `// I don't just learn concepts. I try to make them survive production.`
-
-</div>
+</details>
 
 ---
 
-## `./mission_control`
+## `02` // CURRENTLY RUNNING
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🛰️ `currently_working_on[]`
+### ☕ `JAVA_CORE`
 
-- 🚁 Fire-response drone systems
-- 🧠 Data Structures & Algorithms
-- ⚙️ Automation projects
-- 🧪 Turning ideas into working prototypes
+**Building the fundamentals that don't disappear when the tutorial does.**
+
+`OOP` · `Collections` · `DSA` · `Problem Solving`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🌱 `currently_learning[]`
+### 🧠 `DSA_ENGINE`
 
-- ☕ Java
-- 🧩 DSA
-- 🐍 Python
-- 🤖 AI & Automation
-- 🏗️ Backend architecture
+**Learning to turn “I have no idea” into a sequence of smaller problems.**
+
+`Arrays` · `Linked Lists` · `Binary Search` · `Patterns`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🤝 `looking_to_collab[]`
+### 🤖 `HARDWARE_LAB`
 
-- 🤖 Robotics & Drones
-- 🧠 Artificial Intelligence
-- 🔓 Open-source projects
-- ⚡ Weird-but-useful ideas
+**Where software gets to leave the screen.**
+
+`Drones` · `Robotics` · `Automation` · `Computer Vision`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🧩 `need_help_with[]`
+### ⚡ `AI_PLAYGROUND`
 
-- Drone systems
-- Computer vision
-- Backend architecture
-- Building things at unreasonable hours
+**Experimenting before deciding what deserves to become a project.**
+
+`Python` · `AI` · `Automation` · `Experiments`
 
 </td>
 </tr>
@@ -110,208 +106,185 @@
 
 ---
 
-## `./stack --scan`
+## `03` // PROJECTS WITH A PULSE
+
+<details open>
+<summary><b>🚁 FIRE-RESPONSE DRONE — mission in progress</b></summary>
+
+<br>
+
+**The idea:** build technology that has a reason to exist outside a GitHub repository.
+
+I'm exploring a fire-response drone system around **automation, sensing, computer vision and real-world constraints**.
+
+```text
+OBJECTIVE     → emergency-response assistance
+CURRENT MODE  → research / prototype
+HARD PART     → making software behave in the physical world
+NEXT TARGET   → better sensing + smarter automation
+```
+
+</details>
+
+<details>
+<summary><b>☕ JAVA + DSA — the fundamentals arc</b></summary>
+
+<br>
+
+A public trail of the problems I'm solving while turning Java syntax into actual problem-solving ability.
+
+**Not just solutions → patterns, mistakes, optimizations, repetition.**
+
+<a href="https://github.com/AryanExE-x/Java-DSA">OPEN JAVA-DSA →</a>
+
+</details>
+
+<details>
+<summary><b>🧩 LEETCODE — controlled suffering</b></summary>
+
+<br>
+
+A growing collection of interview-style problems.
+
+The goal isn't to memorize 500 solutions.
+
+**The goal is to recognize the 20 patterns hiding inside them.**
+
+<a href="https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions">OPEN PRACTICE REPO →</a>
+
+</details>
+
+<details>
+<summary><b>⚙️ AUTOMATION — make the computer do the boring part</b></summary>
+
+<br>
+
+Small experiments around scripting, workflows and systems that remove repetitive work.
+
+Sometimes they save time.
+
+Sometimes they create a completely different bug.
+
+**Both are educational.**
+
+</details>
+
+---
+
+## `04` // TECH STACK
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode,arduino,raspberrypi,tensorflow&theme=dark" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/CORE-JAVA-0b0f0c?style=for-the-badge&logo=openjdk&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/DSA-IN_PROGRESS-0b0f0c?style=for-the-badge&logo=leetcode&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/AI-EXPLORING-0b0f0c?style=for-the-badge&logo=tensorflow&logoColor=00ff66"/>
-<img src="https://img.shields.io/badge/AUTOMATION-BUILDING-0b0f0c?style=for-the-badge&logo=githubactions&logoColor=00ff66"/>
+<code>JAVA</code> &nbsp; <code>DSA</code> &nbsp; <code>PYTHON</code> &nbsp; <code>AI</code> &nbsp; <code>AUTOMATION</code> &nbsp; <code>ROBOTICS</code>
 
 </div>
 
 ---
 
-## `./projects --featured`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚒 Fire-Response Drone
-**Mission:** explore autonomous systems for emergency response.
-
-`robotics` `automation` `computer-vision`
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Java + DSA Lab
-A growing collection of implementations, patterns and interview-style problems.
-
-`java` `dsa` `algorithms`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 LeetCode Practice
-Solutions and patterns I'm using to sharpen problem-solving.
-
-`java` `leetcode` `problem-solving`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Automation Experiments
-Small systems that remove repetitive work and occasionally create new bugs.
-
-`python` `automation` `experiments`
-
-</td>
-</tr>
-</table>
-
-> **Want to see the real work?** Check the repositories below — the README is the interface, the commits are the evidence.
-
----
-
-## `./github --telemetry`
+## `05` // GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&bg_color=0b0f0c&title_color=00ff66&icon_color=00ff66&text_color=c8ffd8&ring_color=00ff66&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&bg_color=07120b&title_color=00ff66&icon_color=00ff66&text_color=b8ffd0&ring_color=00ff66&include_all_commits=true" height="175">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&bg_color=0b0f0c&title_color=00ff66&text_color=c8ffd8&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&bg_color=07120b&title_color=00ff66&text_color=b8ffd0&langs_count=7" height="175">
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=AryanExE-x&theme=dark&hide_border=true&background=0b0f0c&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=c8ffd8&dates=7aa889" />
-
-</div>
-
----
-
-## `./achievements --load`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AryanExE-x&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=AryanExE-x&theme=dark&hide_border=true&background=07120b&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=b8ffd0&dates=6d8c78" height="175">
 
 </div>
 
 ---
 
-## `./contributions --animate`
+## `06` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="./assets/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%"/>
+<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
+
+<sub>the graph is basically a visual representation of how often I refused to leave a bug alone.</sub>
 
 </div>
+
+---
+
+## `07` // TERMINAL ACCESS
 
 <details>
-<summary><b>🐍 What is this?</b></summary>
-
-<br/>
-
-This animation is generated automatically from the GitHub contribution graph by the workflow included with this profile.
-
-Every commit feeds the snake.
-
-Every empty square is a personal attack.
-
-</details>
-
----
-
-## `./terminal --interactive`
-
-<details>
-<summary><b>🟢 Open terminal session</b></summary>
+<summary><b>🟢 $ ./whoami</b></summary>
 
 ```console
-$ ./aryan.exe
-
-[BOOT] loading developer profile...
-[OK]   Java runtime detected
-[OK]   DSA module detected
-[OK]   caffeine dependency detected
-[WARN] motivation dependency missing
-[OK]   debugging subsystem online
-
-> ./build --project="something-that-shouldn't-be-easy"
-
-Compiling ███████████████████░ 94%
-
-ERROR:
-    Unknown bug detected.
-
-ACTION:
-    Debug it.
-
-RESULT:
-    It works now. Don't ask why.
-
-$ echo $NEXT_STEP
-
-BUILD SOMETHING HARDER.
+Aryan Prasad
+├── alias       : AryanExE-x
+├── primary     : Java / DSA
+├── exploring   : Python / AI / Automation
+├── hardware    : Robotics / Drones
+└── current_op  : becoming better than yesterday
 ```
 
 </details>
 
 <details>
-<summary><b>☕ Java developer mode</b></summary>
+<summary><b>🟢 $ ./debug --life</b></summary>
+
+```console
+[00:01] motivation.exe .............. NOT FOUND
+[00:02] coffee dependency .......... RESOLVED
+[00:03] compiler ................... ONLINE
+[00:04] confidence ................. UNSTABLE
+[00:05] bug count .................. CLASSIFIED
+[00:06] solution ................... "why did that work?"
+[00:07] commit ..................... PUSHED
+
+SYSTEM: operational.
+```
+
+</details>
+
+<details>
+<summary><b>🟢 $ ./java --run-aryan</b></summary>
 
 ```java
-public class Aryan {
-    public static void main(String[] args) {
-
-        while (alive()) {
-            learn();
-            build();
-            breakSomething();
-            debug();
-            repeat();
-        }
-    }
+while (alive) {
+    learn();
+    build();
+    fail();
+    debug();
+    repeat();
 }
 ```
 
 </details>
 
-<details>
-<summary><b>🧠 Ask me about</b></summary>
-
-- Java
-- DSA
-- Fire-response drone systems
-- Automation
-- AI experiments
-- Things I'm secretly building at 2 AM
-
-</details>
-
 ---
 
-## `./connect --open_channels`
+## `08` // OPEN PORTS
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aryanprasad8888">
-<img src="https://img.shields.io/badge/LINKEDIN-0b0f0c?style=for-the-badge&logo=linkedin&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00ff66?style=for-the-badge&logo=linkedin&logoColor=050805&labelColor=050805">
 </a>
 <a href="mailto:contact.aryan.p@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0b0f0c?style=for-the-badge&logo=gmail&logoColor=00ff66"/>
+<img src="https://img.shields.io/badge/EMAIL-00ff66?style=for-the-badge&logo=gmail&logoColor=050805&labelColor=050805">
 </a>
-<a href="https://github.com/AryanExE-x">
-<img src="https://img.shields.io/badge/GITHUB-0b0f0c?style=for-the-badge&logo=github&logoColor=00ff66"/>
+<a href="https://github.com/AryanExE-x?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-00ff66?style=for-the-badge&logo=github&logoColor=050805&labelColor=050805">
 </a>
 
-<br/><br/>
+<br><br>
 
-### `> connection established.`
+### `> connection established_`
 
-<sub>Building quietly. Committing consistently. Learning in public.</sub>
+<sub>I'm always interested in people who build things instead of only talking about building them.</sub>
 
-<br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0a,50:003d1c,100:00ff66&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07120b,45:003d1c,100:00ff66&height=120&section=footer&animation=twinkling">
 
 </div>
