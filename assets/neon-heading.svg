@@ -1,7 +1,0 @@
-<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
-<defs><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<text x="450" y="58" text-anchor="middle" fill="#00ff66" filter="url(#g)" font-family="JetBrains Mono,monospace" font-weight="700" font-size="31" letter-spacing="5">SYSTEM // ONLINE</text>
-<text x="450" y="87" text-anchor="middle" fill="#6b9279" font-family="JetBrains Mono,monospace" font-size="12" letter-spacing="3">BUILD • BREAK • DEBUG • REPEAT</text>
-<path d="M120 96H780" stroke="#00ff66" stroke-opacity=".3"/>
-<circle cx="120" cy="96" r="2" fill="#00ff66"/><circle cx="780" cy="96" r="2" fill="#00ff66"/>
-</svg>
