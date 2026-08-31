@@ -1,24 +1,169 @@
-# 💫 About Me:
-🔭 I’m currently working on → Fire-response drone + DSA + automation projects<br>🤝 I’m looking to collaborate on → Robotics, drones, AI & open-source projects<br>🧩 I’m looking for help with → Drone systems, computer vision & backend architecture<br>🌱 I’m currently learning → Java, DSA, Python, AI & automation<br>💬 Ask me about → My fire drone project, Java, DSA & things I'm building<br>⚡ Fun fact → I learn fastest by building things that shouldn't be easy.
+<div align="center">
 
+<!-- ============ TOP BANNER GIF ============ -->
+<img src="./assets/ARYAN_EXE.gif" width="100%" alt="ARYAN.EXE banner"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jarv1s_07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/-) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanprasad8888) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/AryanPrasad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ARYAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.aryan.p@gmail.com) 
+<!-- ============ WAVE DIVIDER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=90&section=header" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AryanExE-x&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AryanExE-x&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AryanExE-x&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=root%40AryanExE-x%3A~%24+whoami;Aryan+Prasad+%7C+Builder+%7C+Debugger+of+Life;Currently+compiling%3A+Fire-Response+Drone+%F0%9F%9A%81;Status%3A+404+Motivation+Not+Found+%F0%9F%90%9B" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============ TERMINAL-STYLE INTRO ============ -->
+```ansi
+┌──────────────────────────────────────────────────────────────────┐
+│  ~/AryanExE-x  git:(main)  ✗                                      │
+│                                                                    │
+│  $ cat about_me.log                                               │
+│  > Name        : Aryan Prasad                                     │
+│  > Handle      : AryanExE-x                                       │
+│  > Pronouns    : he/him                                           │
+│  > Status      : 404 Motivation Not Found — currently debugging life │
+│  > Uptime      : compiling since forever                          │
+│                                                                    │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🛰️ `currently_working_on[]`
+```yaml
+- Fire-response drone
+- Data Structures & Algorithms
+- Automation projects
+```
+
+### 🤝 `looking_to_collab[]`
+```yaml
+- Robotics & Drones
+- Artificial Intelligence
+- Open-source projects
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🧩 `need_help_with[]`
+```yaml
+- Drone systems
+- Computer vision
+- Backend architecture
+```
+
+### 🌱 `currently_learning[]`
+```yaml
+- Java, DSA, Python
+- AI & Automation
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💬 Ask me about
+**Fire-drone project · Java · DSA · things I'm secretly building at 2 AM**
+
+### ⚡ Fun fact
+*"I learn fastest by building things that shouldn't be easy."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 🌐 Socials
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://quora.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=00FF41&labelColor=000000"/></a>
+<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=000000"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 🖥️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,linux,vscode,arduino,raspberrypi,opencv,tensorflow&theme=dark"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryanExE-x&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_rank=false&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanExE-x&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanExE-x&layout=compact&hide_border=true&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanExE-x&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" width="49%"/>
+
+</div>
+
+<div align="center">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanExE-x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AryanExE-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=AryanExE-x&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
----
-[![](https://komarev.com/ghpvc/?username=AryanExE-x&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Renders after the Snake GitHub Action below is set up in this repo.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 📌 Featured Repositories
+
+<a href="https://github.com/AryanExE-x/Java-DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Java-DSA&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
+<a href="https://github.com/AryanExE-x/Leetcode-DSA-Practice-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Leetcode-DSA-Practice-Questions&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
+<a href="https://github.com/AryanExE-x/itr-wala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=itr-wala&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
+<a href="https://github.com/AryanExE-x/Apna-College-AlphaBatch-DSA-JAVA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanExE-x&repo=Apna-College-AlphaBatch-DSA-JAVA&theme=dark&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&hide_border=true"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&width=100%25" width="100%"/>
+
+<div align="center">
+
+## 📈 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=AryanExE-x&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%3E+connection+closed...;%3E+see+you+in+the+next+commit_" alt="Footer Typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" width="100%"/>
+
+</div>
