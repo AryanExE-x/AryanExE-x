@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./assets/neon-heading.svg" width="85%" alt="System online">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/neon-heading.svg" width="85%" alt="System online">
 
 <br>
 
@@ -28,9 +28,9 @@
 
 <br>
 
-<img src="./assets/system-card.svg" width="100%" alt="Animated Aryan system card">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/system-card.svg" width="100%" alt="Animated Aryan system card">
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Animated neon divider">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/neon-divider.svg" width="100%" alt="Animated neon divider">
 
 ## `01` // THE PERSON BEHIND THE TERMINAL
 
@@ -189,7 +189,7 @@ Sometimes they create a completely different bug.
 
 <div align="center">
 
-<img src="./assets/telemetry.svg" width="100%" alt="AryanExE-x GitHub telemetry">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/telemetry.svg" width="100%" alt="AryanExE-x GitHub telemetry">
 
 <br>
 
@@ -217,7 +217,7 @@ Sometimes they create a completely different bug.
 
 <div align="center">
 
-<img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution matrix">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution matrix">
 
 <sub>live contribution animation — the matrix updates automatically after the GitHub Action runs.</sub>
 
@@ -279,7 +279,7 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/open-ports.svg" width="100%" alt="Open communication channels">
+<img src="https://raw.githubusercontent.com/AryanExE-x/AryanExE-x/main/assets/open-ports.svg" width="100%" alt="Open communication channels">
 
 <br>
 
